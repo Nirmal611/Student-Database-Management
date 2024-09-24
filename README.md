@@ -1,6 +1,6 @@
 # What is this project ?
-This is a simple Student data managing GUI app , built using PyQt6 and Sqlite3.
-Main Window : ![image](https://github.com/user-attachments/assets/3fa115de-0142-4973-84f7-a27f9246b4e5)
+This is a simple Student data managing GUI app , built using PyQt6 and Sqlite3.\n
+Main Window :\n ![image](https://github.com/user-attachments/assets/3fa115de-0142-4973-84f7-a27f9246b4e5)
 Adding a new Student's Data : ![image](https://github.com/user-attachments/assets/15129af0-9a70-4032-96d8-4a1bb085aa0d)
 Updated Main Window after adding a student : ![image](https://github.com/user-attachments/assets/757dc638-90f2-4709-8d34-051d6e668d71)
 Searching For a student using the search tool : ![image](https://github.com/user-attachments/assets/0717e9c8-2293-4798-b1c7-564aca73d29e)
